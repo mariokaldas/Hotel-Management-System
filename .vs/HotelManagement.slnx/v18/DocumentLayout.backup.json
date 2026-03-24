@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\C#\\EFproject\\HotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\iti\\c#\\efproject\\hotelmanagement\\hotelmanagement\\frontend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\frontend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\iti\\c#\\efproject\\hotelmanagement\\hotelmanagement\\frontend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\frontend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\iti\\c#\\efproject\\hotelmanagement\\hotelmanagement\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frontend.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\C#\\EFproject\\HotelManagement\\HotelManagement\\Frontend.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Frontend.cs",
+              "ToolTip": "D:\\ITI\\C#\\EFproject\\HotelManagement\\HotelManagement\\Frontend.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\Frontend.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T17:57:38.534Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\ITI\\C#\\EFproject\\HotelManagement\\HotelManagement\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Entities\\Reservation.cs",
+              "ToolTip": "D:\\ITI\\C#\\EFproject\\HotelManagement\\HotelManagement\\Entities\\Reservation.cs",
+              "RelativeToolTip": "HotelManagement\\Entities\\Reservation.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAA6wIMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T14:13:31.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frontend.cs",
+              "DocumentMoniker": "D:\\ITI\\C#\\EFproject\\HotelManagement\\HotelManagement\\Frontend.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Frontend.cs",
+              "ToolTip": "D:\\ITI\\C#\\EFproject\\HotelManagement\\HotelManagement\\Frontend.cs",
+              "RelativeToolTip": "HotelManagement\\Frontend.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAWwNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T14:15:27.281Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
